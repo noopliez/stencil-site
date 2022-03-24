@@ -6,8 +6,6 @@
   * [Getting Started](introduction/getting-started.md)
   * [My First Component](introduction/my-first-component.md)
   * [FAQ](introduction/faq.md)
-  * [What is a Design System?](design-systems/what-is-design-system.md)
-  * [Stencil for Design Systems](design-systems/stencil-for-design-systems.md)
 * Components
   * [API](components/api.md)
   * [Component](components/component.md)
@@ -65,6 +63,7 @@
   * [Service Workers](guides/service-workers.md)
   * [Stencil Store](guides/store.md)
   * [Publishing](guides/publishing.md)
+  * [Design Systems](guides/design-systems.md)
   * [Deno (end-of-life)](guides/deno.md)
 * Testing
   * [Overview](testing/overview.md)
